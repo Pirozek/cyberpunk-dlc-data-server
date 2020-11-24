@@ -1,16 +1,27 @@
 {
-  "posts":[
+  "games": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "name": "qwe",
+      "started": null,
+      "finished": null,
+      "messages": [
+
+      ],
+      "history": [
+      ]
+    },
+    {
+      "id": 2,
+      "name": "asd",
+      "started": null,
+      "finished": null,
+      "messages": [
+      ],
+      "history": [
+      ]
     }
   ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+  "history": [
   ]
 }
