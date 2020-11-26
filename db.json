@@ -3,10 +3,10 @@
     {
       "id": 1,
       "name": "qwe",
+      "state": "hello",
       "started": null,
       "finished": null,
       "messages": [
-
       ],
       "history": [
       ]
@@ -16,12 +16,10 @@
       "name": "asd",
       "started": null,
       "finished": null,
-      "messages": [
-      ],
-      "history": [
-      ]
+      "state": "hello",
+      "messages": [],
+      "history": []
     }
   ],
-  "history": [
-  ]
+  "history": []
 }
